@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 130" role="img" aria-label="EDB lockup">
+  <defs>
+    <linearGradient id="w-top" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#84DAED"></stop><stop offset="55%" stop-color="#3FB4B5"></stop><stop offset="100%" stop-color="#136A7F"></stop></linearGradient>
+    <linearGradient id="w-bl" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#67D6B5"></stop><stop offset="55%" stop-color="#0E9B7E"></stop><stop offset="100%" stop-color="#0A6E7E"></stop></linearGradient>
+    <linearGradient id="w-br" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#3FB4B5"></stop><stop offset="55%" stop-color="#19657A"></stop><stop offset="100%" stop-color="#19425B"></stop></linearGradient>
+  </defs>
+  <g fill="none" stroke-width="11" stroke-linecap="round" transform="translate(0,8)">
+    <circle cx="60" cy="34" r="26" stroke="url(#w-top)"></circle>
+    <circle cx="35" cy="70" r="26" stroke="url(#w-bl)"></circle>
+    <circle cx="85" cy="70" r="26" stroke="url(#w-br)"></circle>
+  </g>
+  <text x="146" y="80" font-family="&#39;Neue Haas Grotesk Display Pro&#39;,&#39;Helvetica Neue&#39;,Helvetica,Arial,sans-serif" font-weight="700" font-size="72" letter-spacing="-3" fill="#FFFFFF">EDB</text>
+</svg>
